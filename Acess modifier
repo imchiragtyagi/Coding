@@ -1,0 +1,8 @@
+Acess modifier
+{
+	public -you can acess it anywhere.
+	private-you can acess it in the same class only.
+	default-you can't and also not in the different package sub classcess outside a package.
+	protected-you can't and but can acess different package sub classcess outside a package.
+
+}
